@@ -1,5 +1,5 @@
 # A/B Testing and Regression
-This is the third project of the Udacity's "Data Analyst Nanodegree". The project incorporates analysis of Probability, A/B Testing, and Regression to decide whether an e-commerce company should launch a new page to increase conversion rates. 
+The project incorporates analysis of Probability, A/B Testing, and Regression to decide whether an e-commerce company should launch a new page to increase conversion rates. 
 
 ### Quick Guide
 
